@@ -1,0 +1,64 @@
+_repo: The-works-of-Thomas-Middleton-Volume-5-of-5_75607
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Middleton, Thomas
+    deathdate: 1627
+    gutenberg_agent_id: '58099'
+    url: http://www.gutenberg.org/2009/agents/58099
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Middleton
+  - agent_name: Dekker, Thomas
+    aliases:
+    - Deckar, Thomas
+    - Decker, Thomas
+    - Dickers, Thomas
+    deathdate: 1632
+    gutenberg_agent_id: '6911'
+    url: http://www.gutenberg.org/2009/agents/6911
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Dekker_(writer)
+  - agent_name: Rowley, William
+    aliases:
+    - Rowley, W. (William)
+    - Rowly, William
+    - R., W. (William Rowley)
+    - W. R. (William Rowley)
+    gutenberg_agent_id: '58132'
+    url: http://www.gutenberg.org/2009/agents/58132
+    wikipedia: https://en.wikipedia.org/wiki/William_Rowley
+  editor:
+    agent_name: Dyce, Alexander
+    birthdate: 1798
+    deathdate: 1869
+    gutenberg_agent_id: '5689'
+    url: http://www.gutenberg.org/2009/agents/5689
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Dyce
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75607'
+language: en
+pgterms:marc904: https://archive.org/details/worksofthomasmid05midd/page/n7/mode/2up
+pgterms:marc905: 20190725073132middleton
+pgterms:marc906: '1840'
+pgterms:marc907: GB
+production_note: Tim Lindell, KD Weeks and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bEdward Lumley, $c1840.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 17th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'No wit/help like a woman''s -- The Inner-Temple masque -- The world
+  tost at tennis -- Part of the entertainment to King James -- The triumphs of truth
+  -- Civitatis amor -- The triumphs of love and antiquity -- The sun in Aries -- The
+  triumphs of integrity -- The triumphs of health and prosperity -- The wisdom of
+  Solomon paraphrased -- Micro-cynicon -- On the death of Burbage -- To Webster, on
+  the Duchess of Malfi -- The black book -- Father Hubburd''s tales -- Appendix: The
+  triumphs of honour and industry.'
+title: The works of Thomas Middleton, Volume 5 (of 5)
+url: http://www.gutenberg.org/ebooks/75607
