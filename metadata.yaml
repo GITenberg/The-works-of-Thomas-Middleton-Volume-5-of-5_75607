@@ -1,5 +1,8 @@
 _repo: The-works-of-Thomas-Middleton-Volume-5-of-5_75607
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75607-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Middleton, Thomas
@@ -33,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5689
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Dyce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75607#The-works-of-Thomas-Middleton-Volume-5-of-5
 gutenberg_issued: '2025-04-14'
 gutenberg_type: Text
 identifiers:
